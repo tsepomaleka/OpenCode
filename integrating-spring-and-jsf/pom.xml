@@ -46,7 +46,7 @@
 
 	</dependencies>
 
-	<!-- 3. The lastly, ddd this dependency management section in you POM file -->
+	<!-- 3. The lastly, add this dependency management section in your POM file -->
 
 	<dependencyManagement>
 		<dependencies>
